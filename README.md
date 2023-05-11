@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Abu Jobayer Bin Ali, a highly motivated Laravel Engineer. 
+
+- 🔭 I’m currently working on a **3D product based e-commerce which leverages the incredible threejs.** [check this](https://marketplace.oxman-group.com.au/product/customize/helmet-big-ring-caesar-black-permanent-geranium-lake-mensbr4136-br4136-040-2)
+- 🌱 I’m currently learning **React**, **NextJS**
+- 👯 I’m looking to collaborate on **open source Laravel Application**
+- 🤔 I’m looking for help with **Frontend Development**, **TDD**.
+- 💬 Ask me about **Laravel** anytime.
+- 📫 How to reach me: (**Linkedin**)[https://www.linkedin.com/in/abu-jobayer-bin-ali-niloy]
+- 😄 Pronouns: Yes, It is **HE**
+- ⚡ Fun fact: **Philosophical discussion can have an interesting charm**
