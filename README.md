@@ -22,6 +22,6 @@ This is Abu Jobayer Bin Ali, a highly motivated Laravel Engineer.
 - 👯 I’m looking to collaborate on **open source Laravel Application**
 - 🤔 I’m looking for help with **Frontend Development**, **TDD**.
 - 💬 Ask me about **Laravel** anytime.
-- 📫 How to reach me: (**Linkedin**)[https://www.linkedin.com/in/abu-jobayer-bin-ali-niloy]
+- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/abu-jobayer-bin-ali-niloy)
 - 😄 Pronouns: Yes, It is **HE**
 - ⚡ Fun fact: **Philosophical discussion can have an interesting charm**
