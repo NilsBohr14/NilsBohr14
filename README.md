@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Abu Jobayer Bin Ali, a highly motivated Laravel Engineer. 
+This is Abu Jobayer Bin Ali, a highly motivated **Freelance Laravel Engineer**. 
 
 - 🏡 Top rated freelancer on [**Upwork**](https://www.upwork.com/fl/abujobayerbinali)
 -  🔭 I’m currently working on a **3D product based e-commerce which leverages the incredible threejs.** [check this](https://marketplace.oxman-group.com.au/product/customize/helmet-big-ring-caesar-black-permanent-geranium-lake-mensbr4136-br4136-040-2)
