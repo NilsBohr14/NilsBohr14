@@ -27,4 +27,4 @@ This is Abu Jobayer Bin Ali, a highly motivated Laravel Engineer.
 - 😄 Pronouns: Yes, It is **HE**
 - ⚡ Fun fact: **Philosophical discussion can have an interesting charm**.
 
-[![Some of my GitHub stats](https://github-readme-stats.vercel.app/api?username=NilsBohr14)](https://github.com/NilsBohr14)
+[![Some of my GitHub stats](https://github-readme-stats.vercel.app/api?username=NilsBohr14&count_private=true&show_icons=true)](https://github.com/NilsBohr14)
