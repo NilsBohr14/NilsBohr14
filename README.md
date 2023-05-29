@@ -37,8 +37,7 @@ I completed my Post Graduation in CS and have been working as a full time Full S
 <a href="https://www.github.com/NilsBohr14" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NilsBohr14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/NilsBohr15" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NilsBohr15?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a>
 ### Skills
 
 <p align="left">
@@ -61,21 +60,22 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/abu-jobayer-bin-ali-niloy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/abujobayer.niloy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/NilsBohr14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abu-jobayer-bin-ali-niloy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/abu-jobayer-bin-ali-niloy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/abu-jobayer-bin-ali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NilsBohr15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NilsBohr14"><img src="https://github-readme-stats.vercel.app/api?username=NilsBohr14&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NilsBohr14's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/NilsBohr14"><img src="https://github-readme-stats.vercel.app/api?username=NilsBohr14&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NilsBohr14's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/NilsBohr14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NilsBohr14&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- <a href="http://www.github.com/NilsBohr14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NilsBohr14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/NilsBohr14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsBohr14&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/NilsBohr14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsBohr14&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b> -->
 
-<div width="100%" align="center"><a href="https://github.com/NilsBohr14/lessonby-dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsBohr14&repo=lessonby-dev&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- <div width="100%" align="center"><a href="https://github.com/NilsBohr14/lessonby-dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsBohr14&repo=lessonby-dev&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ### Support Me
 
