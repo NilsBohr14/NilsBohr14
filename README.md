@@ -24,8 +24,9 @@ Fulltime Zend Certified Laravel Developer
 I completed my Post Graduation in CS and have been working as a full time Full Stack Developer for last 5 years.
 
 - 🏡 Among the top 3% of freelancers **(TOP RATED PLUS)** on [**Upwork**](https://www.upwork.com/fl/abujobayerbinali)
--  🔭 I’m currently working on a **3D product based e-commerce which leverages the incredible threejs.** [check this](https://marketplace.oxman-group.com.au/product/customize/helmet-big-ring-caesar-black-permanent-geranium-lake-mensbr4136-br4136-040-2)
-- 🌱 I’m currently learning **React**, **NextJS**
+- 🏃🏾‍♂️ I’m currently working on a **Multi Tenant SaaS Application for Residential and Commercial buildings** using incredible **TALL Stack** [check this](https://www.intergate.app)
+- ✅ Recently completed a **3D product based e-commerce which leverages the incredible threejs.** [check this](https://marketplace.oxman-group.com.au/product/customize/helmet-big-ring-caesar-black-permanent-geranium-lake-mensbr4136-br4136-040-2)
+- 🌱 I’m currently learning **Livewire V3**, **React**, **NextJS**
 - 👯 I’m looking to collaborate on **open source Laravel Application**
 - 🤔 I’m looking for help with **Frontend Development**, **TDD**.
 - 💬 Ask me about **Laravel** anytime.
